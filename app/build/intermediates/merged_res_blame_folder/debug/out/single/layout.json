@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-mergeDebugResources-45:/layout/fragment_details.xml",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/layout/fragment_details.xml"
+    },
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-mergeDebugResources-45:/layout/fragment_main.xml",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "com.tm.kinoteatr.app-mergeDebugResources-45:/layout/fragment_main.xml",
+        "source": "com.tm.kinoteatr.app-main-48:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-mergeDebugResources-45:/layout/film_item.xml",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/layout/film_item.xml"
+    },
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-mergeDebugResources-45:/layout/activity_main.xml",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/layout/activity_main.xml"
+    }
+]

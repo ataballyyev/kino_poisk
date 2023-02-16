@@ -1,0 +1,119 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tm.kinoteatr"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:5:5-66
+11-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:6:5-79
+12-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:7:5-76
+13-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:7:22-73
+14
+15    <permission
+15-->[androidx.core:core:1.9.0] /Users/ataballyyev/.gradle/caches/transforms-3/eef7bded536a75a8daba1eb06483c49f/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+16        android:name="com.tm.kinoteatr.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+16-->[androidx.core:core:1.9.0] /Users/ataballyyev/.gradle/caches/transforms-3/eef7bded536a75a8daba1eb06483c49f/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+17        android:protectionLevel="signature" />
+17-->[androidx.core:core:1.9.0] /Users/ataballyyev/.gradle/caches/transforms-3/eef7bded536a75a8daba1eb06483c49f/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+18
+19    <uses-permission android:name="com.tm.kinoteatr.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+19-->[androidx.core:core:1.9.0] /Users/ataballyyev/.gradle/caches/transforms-3/eef7bded536a75a8daba1eb06483c49f/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+19-->[androidx.core:core:1.9.0] /Users/ataballyyev/.gradle/caches/transforms-3/eef7bded536a75a8daba1eb06483c49f/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+20
+21    <application
+21-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:9:5-33:19
+22        android:allowBackup="true"
+22-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:10:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.9.0] /Users/ataballyyev/.gradle/caches/transforms-3/eef7bded536a75a8daba1eb06483c49f/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+24        android:dataExtractionRules="@xml/data_extraction_rules"
+24-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:11:9-65
+25        android:debuggable="true"
+26        android:fullBackupContent="@xml/backup_rules"
+26-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:12:9-54
+27        android:icon="@mipmap/ic_launcher"
+27-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:13:9-43
+28        android:label="@string/app_name"
+28-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:14:9-41
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:16:9-54
+30        android:supportsRtl="true"
+30-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:17:9-35
+31        android:testOnly="true"
+32        android:theme="@style/Theme.Kinoteatr"
+32-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:18:9-47
+33        android:usesCleartextTraffic="true" >
+33-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:15:9-44
+34        <activity
+34-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:20:9-32:20
+35            android:name="com.tm.kinoteatr.MainActivity"
+35-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:21:13-41
+36            android:exported="true" >
+36-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:22:13-36
+37            <intent-filter>
+37-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:23:13-27:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:24:17-69
+38-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:24:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:26:17-77
+40-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:26:27-74
+41            </intent-filter>
+42
+43            <meta-data
+43-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:29:13-31:36
+44                android:name="android.app.lib_name"
+44-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:30:17-52
+45                android:value="" />
+45-->/Users/ataballyyev/AndroidStudioProjects/Belli Creative/Kinoteatr/app/src/main/AndroidManifest.xml:31:17-33
+46        </activity>
+47
+48        <uses-library
+48-->[androidx.window:window:1.0.0] /Users/ataballyyev/.gradle/caches/transforms-3/37dcdd18f721acc7d2edf513491e20f4/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+49            android:name="androidx.window.extensions"
+49-->[androidx.window:window:1.0.0] /Users/ataballyyev/.gradle/caches/transforms-3/37dcdd18f721acc7d2edf513491e20f4/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+50            android:required="false" />
+50-->[androidx.window:window:1.0.0] /Users/ataballyyev/.gradle/caches/transforms-3/37dcdd18f721acc7d2edf513491e20f4/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+51        <uses-library
+51-->[androidx.window:window:1.0.0] /Users/ataballyyev/.gradle/caches/transforms-3/37dcdd18f721acc7d2edf513491e20f4/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+52            android:name="androidx.window.sidecar"
+52-->[androidx.window:window:1.0.0] /Users/ataballyyev/.gradle/caches/transforms-3/37dcdd18f721acc7d2edf513491e20f4/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+53            android:required="false" />
+53-->[androidx.window:window:1.0.0] /Users/ataballyyev/.gradle/caches/transforms-3/37dcdd18f721acc7d2edf513491e20f4/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+54
+55        <provider
+55-->[androidx.emoji2:emoji2:1.2.0] /Users/ataballyyev/.gradle/caches/transforms-3/6ae0a0c9afe62d34e8b7d6e81c5db76b/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+56            android:name="androidx.startup.InitializationProvider"
+56-->[androidx.emoji2:emoji2:1.2.0] /Users/ataballyyev/.gradle/caches/transforms-3/6ae0a0c9afe62d34e8b7d6e81c5db76b/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+57            android:authorities="com.tm.kinoteatr.androidx-startup"
+57-->[androidx.emoji2:emoji2:1.2.0] /Users/ataballyyev/.gradle/caches/transforms-3/6ae0a0c9afe62d34e8b7d6e81c5db76b/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+58            android:exported="false" >
+58-->[androidx.emoji2:emoji2:1.2.0] /Users/ataballyyev/.gradle/caches/transforms-3/6ae0a0c9afe62d34e8b7d6e81c5db76b/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+59            <meta-data
+59-->[androidx.emoji2:emoji2:1.2.0] /Users/ataballyyev/.gradle/caches/transforms-3/6ae0a0c9afe62d34e8b7d6e81c5db76b/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+60                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+60-->[androidx.emoji2:emoji2:1.2.0] /Users/ataballyyev/.gradle/caches/transforms-3/6ae0a0c9afe62d34e8b7d6e81c5db76b/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+61                android:value="androidx.startup" />
+61-->[androidx.emoji2:emoji2:1.2.0] /Users/ataballyyev/.gradle/caches/transforms-3/6ae0a0c9afe62d34e8b7d6e81c5db76b/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+62            <meta-data
+62-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/ataballyyev/.gradle/caches/transforms-3/e4dd9346c6ac400990aee92a163162de/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+63                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+63-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/ataballyyev/.gradle/caches/transforms-3/e4dd9346c6ac400990aee92a163162de/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+64                android:value="androidx.startup" />
+64-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/ataballyyev/.gradle/caches/transforms-3/e4dd9346c6ac400990aee92a163162de/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+65        </provider>
+66    </application>
+67
+68</manifest>

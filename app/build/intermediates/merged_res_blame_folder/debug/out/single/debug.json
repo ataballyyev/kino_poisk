@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-merged_res-46:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-merged_res-46:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-merged_res-46:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-merged_res-46:/drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/drawable/ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-merged_res-46:/layout_fragment_details.xml.flat",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/layout/fragment_details.xml"
+    },
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-merged_res-46:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-merged_res-46:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-merged_res-46:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-merged_res-46:/drawable_ic_baseline_search_24.xml.flat",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/drawable/ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-merged_res-46:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-merged_res-46:/navigation_nav_graph.xml.flat",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-merged_res-46:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-merged_res-46:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-merged_res-46:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-merged_res-46:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-pngs-41:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-merged_res-46:/layout_film_item.xml.flat",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/layout/film_item.xml"
+    },
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-merged_res-46:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-merged_res-46:/xml_backup_rules.xml.flat",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-merged_res-46:/drawable_ic_baseline_star_border_24.xml.flat",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/drawable/ic_baseline_star_border_24.xml"
+    },
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-merged_res-46:/layout_fragment_main.xml.flat",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "com.tm.kinoteatr.app-merged_res-46:/layout_fragment_main.xml.flat",
+        "source": "com.tm.kinoteatr.app-main-48:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-merged_res-46:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-merged_res-46:/layout_activity_main.xml.flat",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ataballyyev/.gradle/daemon/7.4/com.tm.kinoteatr.app-main-48:/mipmap-xxxhdpi/ic_launcher.webp"
+    }
+]
